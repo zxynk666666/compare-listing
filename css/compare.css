@@ -1,0 +1,56 @@
+.container-fluid{
+  padding-left: 0px;
+}
+.item-title{
+  float: left;
+  max-width: 130px;
+  background-color: #999999;
+}
+
+.floorplans{
+  height: 60px;
+}
+ul.content{
+  margin-left: 10px;
+}
+.parking-comments{
+  height: 60px;
+}
+ul{
+  list-style-type:none;
+  margin-left: 10px;
+}
+
+.photo{
+  height: 150px;
+  line-height: 150px;
+}
+
+img{
+  
+}
+.pull-left .price{
+  color: #c09853;
+  font-size: 14px;
+}
+.remove-listing{
+  height: 25px;
+}
+.odd-line{
+  
+}
+
+.even-line{
+  
+}
+ul li{
+  height: 1.8;
+  line-height: 1.8;
+  font-size: 12px;
+  text-indent: 0.2em;
+  vertical-align: middle;
+}
+
+.pull-left ul li{
+  text-align: center;
+}
